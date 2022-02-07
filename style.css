@@ -1,0 +1,158 @@
+/* ---- WHOLE PAGE ---- */
+body {
+    font-family: Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+/* ---- TOP BAR ---- */
+h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+header {
+    background: #1F2937;
+    padding: 10px 200px 100px 200px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+/* ---- HERO ---- */
+
+h2 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    margin-top: 0;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+#hero-image {
+    max-width: 100%;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero-left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#hero-button {
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 10px;
+    border: 0px solid #3882F6;
+
+}
+
+/* ---- MIDDLE ---- */
+
+.middle-heading {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.card-image {
+    border: 5px solid #3882F6;
+    border-radius: 15px;
+    max-width: 200px;
+}
+
+.features {
+    display: flex;
+    justify-content: center;
+    padding: 0px 200px 100px 200px;
+}
+
+.card p {
+    text-align: center;
+}
+
+/* ---- QUOTE SECTION ---- */
+
+.quote-section {
+    background: #e5e7eb;
+    padding: 80px 200px;
+}
+
+#quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+#credit {
+    font-size: 26px;
+    font-weight: bold;
+    text-align: right;
+    font-style: italic;
+}
+
+/* CALL TO ACTION */
+
+.call-to-action {
+    background-color: #3882F6;
+    border-radius: 7px;
+    margin: 100px;
+    display: flex;
+    padding: 20px;
+    color: #e5e7eb;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#sign-up {
+    background-color: #3882F6;
+    border-radius: 5px;
+    border: 2px solid #e5e7eb;
+    color: #e5e7eb;
+    font-size: 18px;
+    max-height: 50px;
+    padding: 10px 40px;
+}
+
+#cta-text h3 {
+    margin-bottom: 2px;
+}
+
+#cta-text p {
+    margin-top: 2px;
+}
+/* ---- FOOTER ---- */
+
+footer {
+    background-color: #1F2937;
+    color: #e5e7eb;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
