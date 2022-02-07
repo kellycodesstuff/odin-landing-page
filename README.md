@@ -1,21 +1,9 @@
 # odin-landing-page
+This project was completed as part of The Odin Project curriculum.
+
+The objective of the project was to use HTML and CSS to replicate the following <a href="https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png">design</a> using the following <a href="https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png">style guide</a>
 
 
-
-
-facial
-https://unsplash.com/photos/Pe9IXUuC6QU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-
-sauna
-https://unsplash.com/photos/NHLS5hOSH0c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-
-scrub
-https://unsplash.com/photos/mCb06TSaab0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-
-pool
-https://unsplash.com/photos/j6byAMMpW2Y?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-
-massage
-https://unsplash.com/photos/cJwl8182Mjs?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+Image Credits:
 
 <a target="_blank" href="https://icons8.comundefined">Spa Care</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
