@@ -1,6 +1,6 @@
 /* ---- WHOLE PAGE ---- */
 body {
-    font-family: Tahoma, sans-serif;
+    font-family: "Poppins", Tahoma, sans-serif;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -39,6 +39,7 @@ h2 {
     font-weight: bolder;
     color: #f9faf8;
     margin-top: 0;
+    margin-bottom: 0;
 }
 
 .hero {
@@ -66,9 +67,9 @@ h2 {
 #hero-button {
     background-color: #3882F6;
     border-radius: 5px;
-    padding: 10px;
+    padding: 10px 20px;
     border: 0px solid #3882F6;
-
+    font-size: 24px;
 }
 
 /* ---- MIDDLE ---- */
@@ -84,13 +85,13 @@ h2 {
 .card-image {
     border: 5px solid #3882F6;
     border-radius: 15px;
-    max-width: 200px;
+    max-width: 150px;
 }
 
 .features {
     display: flex;
     justify-content: center;
-    padding: 0px 200px 100px 200px;
+    padding: 0px 250px 100px 250px;
 }
 
 .card p {
@@ -101,7 +102,7 @@ h2 {
 
 .quote-section {
     background: #e5e7eb;
-    padding: 80px 200px;
+    padding: 80px 180px;
 }
 
 #quote {
